@@ -1,0 +1,9 @@
+.img-container{
+    background-color: #f4f4f4;
+    margin: 0;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
